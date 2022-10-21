@@ -1,0 +1,56 @@
+.h2{
+    color: pink;
+}
+.h3{
+    color: yellow;
+}
+.text{
+    padding-left: 80px;
+    padding-right: 80px;
+    border-color: yellow;
+}
+.text:hover{
+    background-color: rgb(241, 241, 188);
+}
+.button1{
+    padding: 10px 40px;
+    color:rgba(0, 0, 0, 0.867);
+    background-color: rgb(204, 198, 198);
+    border: none;
+    font-size: 10px;
+    cursor:pointer;
+    border-radius: 30px;
+}
+.button1:hover{
+    background-color: rgb(139, 139, 246);
+    color: aliceblue;
+    font-size: 20px;
+}
+.Button2{
+    padding: 10px 40px;
+    color: black;
+    background-color: rgb(213, 209, 209);
+    border: none;
+    font-size: 10px;
+    cursor: pointer;
+    border-radius: 30px;
+}
+.Button2:hover{
+   background-color: rgb(177, 116, 238);
+   color:aliceblue;
+   font-size: 20px;
+}
+.Button3{
+   padding: 10px 40px;
+   color: black;
+   background-color: rgb(211, 204, 204);
+   border: none;
+   font-size: 10px;
+   cursor: pointer;
+   border-radius: 30px;
+}
+.Button3:hover{
+   background-color: rgb(233, 140, 158);
+   color: aliceblue;
+   font-size: 20px;
+}
